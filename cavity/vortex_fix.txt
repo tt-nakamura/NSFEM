@@ -1,0 +1,6 @@
+# column1 = node index of boundary point
+# column2 = value of vortex
+28 0
+0 0
+35 0
+63 0

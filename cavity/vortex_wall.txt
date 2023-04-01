@@ -1,0 +1,22 @@
+# column1 = node index of boundary point
+# column2,3 = node indices of adjacent points
+# column4 = wall slipping velocity
+21 29 -1 0
+15 22 -1 0
+10 16 -1 0
+6 11 -1 0
+3 7 -1 0
+1 4 -1 0
+2 4 -1 0
+5 8 -1 0
+9 13 -1 0
+14 19 -1 0
+57 52 -1 0
+60 56 -1 0
+62 59 -1 0
+61 59 -1 1
+58 55 -1 1
+54 50 -1 1
+49 44 -1 1
+43 37 -1 1
+36 29 -1 1
